@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(to right, rgb(92,145,229), rgb(152,63,198));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+}
+button{
+    height: 35px;
+    width: 82px;
+    color: white;
+    border-radius: 25px;
+    border: 2px solid aqua;
+    box-shadow: 2px 2px 10px aqua;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+#mybutton1{
+    background-color: rgb(92,145,229);
+}
+#mybutton2{
+    background-color: rgb(152,63,198);
+}
+h2{
+    margin-left: 155px;
+    color: white;
+}
+.copycode{
+    height: 45px;
+    width: 635px;
+    font-size: 20px;
+    background: transparent;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 45px;
+}
